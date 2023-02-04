@@ -11,6 +11,9 @@ header{
 	background-position: center center;
 	background-attachment: fixed;
 }
+{
+	hello ;;
+}
 nav{
 	width: 100%;
 	height: auto;
@@ -504,7 +507,7 @@ button.collapse:hover, button.collapse.active{
 }
 .lower-footer{
 	width: 100%;
-	height: ;
+	height: 100px;
 	color: #fff;
 	font-size: 13px;
 	font-family: Roboto;
